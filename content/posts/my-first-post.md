@@ -1,6 +1,7 @@
 ---
-title: "My First Post"
-date: 2018-04-03T13:02:36-04:00
-draft: true
----
+title: My First Post
+date: 2018-04-03 13:02:36 -0400
+type: default
 
+---
+Hello Guys this is my first post
