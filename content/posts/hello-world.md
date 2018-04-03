@@ -7,4 +7,4 @@ title = "Hello World"
 type = ""
 
 +++
-This is a hello world post
+This is![](/uploads/2018/04/03/logo_black.png) a hello world post
