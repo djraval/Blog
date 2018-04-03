@@ -1,0 +1,36 @@
+baseurl = "/"
+theme = "coder" # set the theme
+title = "Home"
+[params] # theme parameters
+    author = "Devarshi Raval" # author's name
+    info = "Systems Engineer and FullStack Dev" # author's job title or info
+    description = "Devarshi's personal website" # site description
+    keywords = "Devarshi Raval,djraval,devarshi,cheatsec,ddit student,personal,website,ddu,14ituon057" # site keywords
+    
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/djraval/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/_djraval"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/djraval/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Projects"
+    weight = 2
+    url = "/about/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about/"
