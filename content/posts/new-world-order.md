@@ -6,4 +6,4 @@ tags = []
 title = "Demo Post"
 
 +++
-This is the beginning
+This is the beginning post
