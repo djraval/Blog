@@ -5,5 +5,7 @@ draft = true
 slug = ""
 tags = []
 title = "Demo post 2"
+type = ""
 
 +++
+This is drafted
