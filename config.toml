@@ -1,6 +1,6 @@
 baseurl = "/"
 theme = "coder"
-title = "Home"
+title = "DJRaval"
 [[menu.main]]
 name = "About"
 url = "/about/"
