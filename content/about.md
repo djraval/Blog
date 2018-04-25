@@ -4,7 +4,7 @@ date: 2018-04-04 17:37:37 +0530
 type: page
 
 ---
-It's been almost a year since I first wrote my first PHP script. Like the majority of us, I too was teenage developer just confined in the world of console programming with C++ and Java too reluctant to try the waters of the Web. Starting with basic markup pages to full fledged production ready projects. In this journey, I had my [brother](https://facebook.com/DaddyRocky) & [sister](https://facebook.com/raveena.khokhani) by my side, who has not only guided me on all my experiments but also my life experiences.
+It's been almost a year since I first wrote my first PHP script. Like the majority of us, I too was teenage developer just confined in the world of console programming with C++ and Java too reluctant to try the waters of the Web. Starting with basic markup pages to full fledged production ready projects, learning to workaround different hurdles in every project. In this journey, I had my [brother](https://facebook.com/DaddyRocky) & [sister](https://facebook.com/raveena.khokhani) by my side, who has not only guided me on all my experiments but also my life experiences.
 
 I received my B.Tech in Information Technology from [Dharmsinh Desai University](http://www.ddu.ac.in/), exploring and studying  diverse subjects (believe it or not we also learnt Plumbing and Carpentry_) in the domain and got a first class degree with honors. While I was at University I was appointed as Lead Web Developer to develop and maintain various event portals that helped me to further hone in my skills as a developer. In my final semester, I was an Intern at Infosys, which taught me many valuable lessons which would help me in my corporate life.
 
